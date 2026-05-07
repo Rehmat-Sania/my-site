@@ -1,3 +1,3 @@
 export default function handler(req, res) {
-  res.status(200).send("WORKING 🚀 VERCEL FIXED");
+  res.status(200).send("WORKING 🚀 VERCEL IS FIXED");
 }
